@@ -13,13 +13,11 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
+
 
 ## Graph
+<img width="1600" height="748" alt="WhatsApp Image 2026-05-31 at 10 11 46 AM" src="https://github.com/user-attachments/assets/c1371abf-9e65-4e3f-96b9-80d32be94770" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
-
-
-Theoritical Frequency of Oscillation =
