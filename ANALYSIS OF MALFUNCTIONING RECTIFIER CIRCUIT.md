@@ -4,10 +4,13 @@
 <img width="811" height="708" alt="image" src="https://github.com/user-attachments/assets/e0caa2dd-cc57-4642-987f-53e4f8f78903" />
 
 
-## ATTACH THE CORRECT CIRCUIT
+## Tabulation:
+<img width="1242" height="798" alt="WhatsApp Image 2026-06-04 at 2 16 28 PM" src="https://github.com/user-attachments/assets/5020d223-c782-4b83-98de-86dc99e1ee61" />
 
-## GRAPHS
-<img width="1080" height="1397" alt="WhatsApp Image 2026-06-02 at 7 58 57 AM" src="https://github.com/user-attachments/assets/70500fcd-1486-4ff7-91ed-ba30fc1ff744" />
+
+## GRAPHS:
+<img width="1276" height="1600" alt="WhatsApp Image 2026-06-04 at 2 16 06 PM" src="https://github.com/user-attachments/assets/d0626dde-7e3b-4967-9f6d-87df4e37da87" />
+
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
